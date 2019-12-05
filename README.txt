@@ -1,7 +1,7 @@
 This dataset was obtained as per permission by Dr. Chack-Yung Yu of the Nationwide Children's Hospital in Columbus, Ohio.  
 
 Background ------------------------------------------------------------------------------------------
-
+ 
 Systemic Lupus Erythematosus (SLE) is an autoimmune disease, causing inflammation and damage to various organ systems of the body.  While environmental factors that influence the onset of SLE are unknown, the disease primarily affects women and those of African and Chinese descent. 
 
 Ongoing research has linked abnormally low levels of the C3 and C4 proteins of the body’s complement immune system to the disease, of which is of particular genetic interest as the number of genes that encode for the C4 protein vary from person to person, in other words C4 has Copy Number Variants (CNVs) ranging from two copies to over eight copies. To add onto this, C4 has two isoforms, long and short, differentiated by the presence or lack of an inserted retrovirus into the gene.
